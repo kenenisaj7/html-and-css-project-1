@@ -1,0 +1,57 @@
+.myg{
+    margin-top:4px;
+    margin-bottom: 4px;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:50px ;
+}
+.new{
+    text-align: center;
+    background-color: brown;
+}
+.one{
+    text-align: center;
+}
+.partner-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .partner-section h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .partner-section p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .partner-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .partner-list li {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .partner-list a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .partner-list a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
